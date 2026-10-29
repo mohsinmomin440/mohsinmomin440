@@ -1,7 +1,9 @@
-# MohsinaliMomin440
+
+# DEVROCK07
 
 ```txt
 JavaScript • Node.js • Python
-• Windows
+Linux • Debian • Windows
 ```
-![](https://pxdrop.online/i/dbhoir281qec73aqu010)
+
+![Mohsin](https://pxdrop.online/raw/dbhoir281qec73aqu010)
