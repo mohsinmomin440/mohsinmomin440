@@ -3,7 +3,7 @@
 
 ```txt
 JavaScript • Node.js • Python
-Linux • Debian • Windows
+ • Windows
 ```
 
 ![Mohsin](https://pxdrop.online/raw/dbhoir281qec73aqu010)
