@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**mohsinmomin440/mohsinmomin440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mohsinmomin440/mohsinmomin440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **JavaScript** and **Node.js** projects.
+- 🌱 I'm currently learning **Python**.
+- 💻 I enjoy building practical tools and automating workflows.
+- 💬 Ask me about web development, scripting, and automation.
+- 📫 How to reach me: GitHub — [@mohsinmomin440](https://github.com/mohsinmomin440)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like turning repetitive tasks into one-liner scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> This profile README was updated and committed with the help of [Claude Code](https://claude.com/claude-code).
